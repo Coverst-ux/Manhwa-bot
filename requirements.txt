@@ -1,0 +1,4 @@
+discord.py==2.6.1            # Core Discord bot library
+python-dotenv==1.0.1         # For loading your .env TOKEN
+aiohttp==3.9.3               # Required for async HTTP requests (used by Comick API)
+Flask==2.3.4                 # Lightweight web server for uptime monitoringgit status
